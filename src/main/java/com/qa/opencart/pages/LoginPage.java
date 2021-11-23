@@ -5,11 +5,6 @@ import org.openqa.selenium.WebDriver;
 
 import com.qa.opencart.utils.ElementUtils;
 
-/*
- * 1. private By locator
- * 2. Constructor
- * 3. Page Actions
-*/
 public class LoginPage {
 
 	private By username = By.id("input-email");
